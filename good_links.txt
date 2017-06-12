@@ -1,8 +1,28 @@
 knock me out blog posts to save:
 
 http://www.knockmeout.net/2011/03/guard-your-model-accept-or-cancel-edits.html
-protected observables (he customized a computed observable) so user can accept or cancel data save (two way data binding might allow for mistakes to get persisted)
+http://www.knockmeout.net/2013/01/simple-editor-pattern-knockout-js.html
+ways user can accept or cancel data save (two way data binding might allow for mistakes to get persisted)
 
 
 http://www.knockmeout.net/2011/04/utility-functions-in-knockoutjs.html
 frequently used utilites     
+
+http://www.knockmeout.net/2011/07/another-look-at-custom-bindings-for.html
+custom bindings 
+
+http://www.knockmeout.net/2011/08/all-of-knockoutjscom-live-samples-in.html
+http://knockoutjs.com/examples/
+live samples
+
+www.knockmeout.net/2013/06/knockout-debugging-strategies-plugin.html
+debugging tools 
+
+http://www.knockmeout.net/2011/04/knockoutjs-video-from-mix11.html
+http://www.knockmeout.net/2012/08/thatconference-2012-session.html
+http://www.knockmeout.net/2012/10/twincitiescodecamp-2012-session.html
+http://www.knockmeout.net/2013/09/devlink-2013-ko-tips.html
+video conference presentations by blog man
+
+https://www.youtube.com/watch?v=MNiUcuo3Wio
+video by the creator
