@@ -1,0 +1,5 @@
+https://eikospartners.github.io/windowmanagerjs/
+docs
+
+http://blotter.eikospartners.com/install
+demo

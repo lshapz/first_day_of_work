@@ -1,0 +1,14 @@
+http://cdn.openfin.co/jsdocs/stable/fin.desktop.InterApplicationBus.html
+
+http://cdn.openfin.co/jsdocs/stable/fin.desktop.Application.html#~options
+
+http://cdn.openfin.co/jsdocs/stable/
+
+The fin namespace
+
+When running within the OpenFin Runtime your web applications have access to the fin namespace and all the modules within the API without the need to include additional source files. You can treat the fin namespace as you would the window, navigator or document objects.
+
+API Ready
+
+When using the OpenFin API, it is important to ensure that it has been fully loaded before making any API calls. To verify that the API is in fact ready, be sure to make any API calls either from within the fin.desktop.main() method or explicitly after it has returned. This avoids the situation of trying to access methods that are not yet fully injected.
+
